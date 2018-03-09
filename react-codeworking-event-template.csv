@@ -1,17 +1,19 @@
 ﻿TYPE,CONTENT,PRIORITY,INDENT,AUTHOR,RESPONSIBLE,DATE,DATE_LANG,TIMEZONE
-task,Find venue,4,1,Kyle (2887354),,,en,America/Chicago
+task,find venue,4,1,Kyle (2887354),,,en,America/Chicago
 ,,,,,,,,
 task,create event,4,1,Kyle (2887354),,,en,America/Chicago
+,,,,,,,,
+task,schedule invite email event,4,1,Kyle (2887354),,,en,America/Chicago
 ,,,,,,,,
 task,share in EB frontend-nash,4,1,Kyle (2887354),,,en,America/Chicago
 ,,,,,,,,
 task,share in react-codeworking,4,1,Kyle (2887354),,,en,America/Chicago
 ,,,,,,,,
-task,check in attendees,4,1,Kyle (2887354),,,en,America/Chicago
-,,,,,,,,
-task,send feedback survey out,4,1,Kyle (2887354),,,en,America/Chicago
-,,,,,,,,
 task,create feedback survey,4,1,Kyle (2887354),,,en,America/Chicago
+,,,,,,,,
+task,schedule feedback survey email,4,1,Kyle (2887354),,,en,America/Chicago
+,,,,,,,,
+task,check in attendees,4,1,Kyle (2887354),,,en,America/Chicago
 ,,,,,,,,
 task,review feedback survey,4,1,Kyle (2887354),,,en,America/Chicago
 ,,,,,,,,
