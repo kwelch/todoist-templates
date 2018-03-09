@@ -1,0 +1,19 @@
+﻿TYPE,CONTENT,PRIORITY,INDENT,AUTHOR,RESPONSIBLE,DATE,DATE_LANG,TIMEZONE
+task,assign task @work,4,1,Kyle (2887354),,,en,America/Chicago
+,,,,,,,,
+task,arc feature @work,4,1,Kyle (2887354),,,en,America/Chicago
+,,,,,,,,
+task,do work @work,4,1,Kyle (2887354),,,en,America/Chicago
+,,,,,,,,
+task,arc diff @work,4,1,Kyle (2887354),,,en,America/Chicago
+,,,,,,,,
+task,updated based on review @work,4,1,Kyle (2887354),,,en,America/Chicago
+,,,,,,,,
+task,arc diff again @work,4,1,Kyle (2887354),,,en,America/Chicago
+,,,,,,,,
+task,arc land @work,4,1,Kyle (2887354),,,en,America/Chicago
+,,,,,,,,
+task,move task to resolved @work,4,1,Kyle (2887354),,,en,America/Chicago
+,,,,,,,,
+task,ensure it moves to closed @work,4,1,Kyle (2887354),,,en,America/Chicago
+,,,,,,,,
